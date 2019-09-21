@@ -24,7 +24,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Zahra Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZahraRahmani/Personal-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[this is the description](https://guides.github.com/features/mastering-markdown/)
+
+This website has `variable` and html code ```<h1>Zahra</h1><br> <h2>Rahmani</h2>``` to see if it works.
+
+This is an image: 
+
+![alt image](http://www.youandthemat.com/nature-my-love/200/200)
 
 ### Contact information
 
