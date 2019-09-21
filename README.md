@@ -1,5 +1,6 @@
 Welcome to Zahra's Personal Webpage
-You can use my website by the following URL: http://ZahraRahmani.github.io/
+You can use my website by the following URL: 
+http://ZahraRahmani.github.io/
 
 ### Zahra Resume
 
@@ -11,12 +12,12 @@ Boise state University 06/2019-12/2022 Marefate High School 2007-03/2014
 
 Intern at Trailhead 09/2017-01/2018 _Math Tutor 06/2019-09/2019
 
-_Portfolio_
+*Portfolio*
 
-* Professional in Microsoft office
-* typing speed 45words/min
-* Familiar with C, Java, Javascript, Html, CSS, AngularJS
-* Bold and Italic and Code text
+- Professional in Microsoft office
+- typing speed 45words/min
+- Familiar with C, Java, Javascript, Html, CSS, AngularJS
+- Bold and Italic and Code text
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
