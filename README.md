@@ -4,9 +4,11 @@ You can use my website by the following URL: http://ZahraRahmani.github.io/
 ### Zahra Resume
 
 **Education**
+
 Boise state University 06/2019-12/2022 Marefate High School 2007-03/2014
 
 **Experience**
+
 Intern at Trailhead 09/2017-01/2018 _Math Tutor 06/2019-09/2019
 
 _Portfolio_
